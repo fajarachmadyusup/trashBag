@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_id": "trashbag-1277",
+    "project_number": "907835341558",
+    "name": "trashBag"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907835341558:android:3c2035c4584c2e10",
+        "client_id": "android:com.example.xxx.trashbag",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.xxx.trashbag",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907835341558-daqdll4g0bpbric8b3iocr0ij6hq2r9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xxx.trashbag",
+            "certificate_hash": "5A6A03CEBA6CDD8F902393A481F8DCDDEF6F7529"
+          }
+        },
+        {
+          "client_id": "907835341558-139qcn878i4eddbnfvhfelsri8mciudp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907835341558:android:3c1f127c4c370f36",
+        "client_id": "android:com.spartan.xxx.trashbag",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.spartan.xxx.trashbag",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907835341558-ut5k48cik41ipbn0a7fbc310v9j4ofdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spartan.xxx.trashbag",
+            "certificate_hash": "5A6A03CEBA6CDD8F902393A481F8DCDDEF6F7529"
+          }
+        },
+        {
+          "client_id": "907835341558-139qcn878i4eddbnfvhfelsri8mciudp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
